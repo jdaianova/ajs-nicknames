@@ -1,0 +1,31 @@
+{
+  "name": "ajs-nicknames",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdaianova/ajs-nicknames.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdaianova/ajs-nicknames/issues"
+  },
+  "homepage": "https://github.com/jdaianova/ajs-nicknames#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.18.10",
+    "@babel/core": "^7.19.1",
+    "@babel/preset-env": "^7.19.1",
+    "eslint": "^8.24.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "jest": "^29.0.3"
+  },
+  "dependencies": {
+    "core-js": "^3.25.2"
+  }
+}
